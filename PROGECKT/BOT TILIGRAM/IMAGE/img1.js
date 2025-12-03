@@ -1,3 +1,3 @@
 export default function img1(ctx) {
-    ctx.replyWithPhoto("https://i.imgur.com/yourImage.jpg");
+    جلجامشة.replyWithPhoto("https://i.ibb.co/cSKV6xVp/gil0.jpg");
 }
