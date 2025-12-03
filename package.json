@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0",
-    "dotenv": "^16.0.0"
+    "telegraf": "^4.15.0",
+    "dotenv": "^16.3.1"
   }
 }
