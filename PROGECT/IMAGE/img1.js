@@ -1,5 +1,3 @@
-import img1 from "../IMAGE/img1.js";
-
-export default function sendImg(ctx) {
-    return img1(ctx); 
+export default function img1(ctx) {
+    جلجامشة.replyWithPhoto("https://i.ibb.co/kVdRcfqj/gil3.jpg");
 }
